@@ -1,24 +1,38 @@
-# Pixel-Perfect Replica
+# Bloom AI – Workplace Productivity Assistant
 
-Implement exactly the screenshot and nothing else
+## Project Overview
+Bloom AI is a modern, AI-powered workplace productivity assistant designed to help professionals streamline everyday tasks. It helps users generate professional emails, summarize meeting notes, and organize their tasks and schedules.
 
-This project was built with [Lovable](https://lovable.dev).
+The application features a clean, responsive dashboard with a soft pastel aesthetic, making productivity simple and enjoyable.
 
-## Build with Lovable
+## Features Implemented
+- **Smart Email Generator:** Generate emails using different tones, including Formal, Friendly and Persuasive.
+- **Meeting Notes Summarizer:** Summarize meeting notes and extract key points, decisions, action items and deadlines.
+- **AI Task Planner:** Organize tasks, prioritize work and generate daily or weekly schedules.
+- **Responsive Dashboard:** Modern dashboard with sidebar navigation.
+- **Editable AI Outputs:** Edit, copy and regenerate generated content.
+- **Responsible AI Disclaimer:** Reminds users to review AI-generated content before using it.
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/728a65a0-d0eb-4b5a-8db4-29484acbe9ba).
+## Technologies and Tools Used
+- Lovable – Application development
+- HTML, CSS and JavaScript
+- AI prompting and generative AI
+- GitHub – Version control and project hosting
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+## Setup Instructions
 
-## Development
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/jahaanismael06/bloom-ai.git
+   ```
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+2. Navigate to the project folder:
+   ```bash
+   https://bloom-ai-recreation.lovable.app
+   ```
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
+3. Open the project in your browser or run it using your preferred development environment.
+
+## Team Member
+
+- **Jahaan Ismael** – Developer and Designer
